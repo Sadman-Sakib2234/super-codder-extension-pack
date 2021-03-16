@@ -1,0 +1,42 @@
+{
+    "name": "super-codder-extension-pack",
+    "displayName": "Super Codder Extension Pack",
+    "description": "This extension pack will make your codding life easy you virgin",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "ms-vscode.cpptools",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "ms-python.python",
+        "ritwickdey.LiveServer",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "eamodio.gitlens",
+        "msjsdiag.debugger-for-chrome",
+        "formulahendry.auto-rename-tag",
+        "christian-kohler.path-intellisense",
+        "CoenraadS.bracket-pair-colorizer",
+        "formulahendry.auto-close-tag",
+        "dsznajder.es7-react-js-snippets",
+        "streetsidesoftware.code-spell-checker",
+        "aaron-bond.better-comments",
+        "thekalinga.bootstrap4-vscode",
+        "ritwickdey.live-sass",
+        "WallabyJs.quokka-vscode",
+        "Zignd.html-css-class-completion",
+        "PKief.material-icon-theme",
+        "formulahendry.code-runner",
+        "Dart-Code.flutter",
+        "Dart-Code.dart-code",
+        "Equinusocio.vsc-material-theme",
+        "devzstudio.emoji-snippets",
+        "51gn3d.signed-dark-pro",
+        "ahmadawais.shades-of-purple",
+        "softwaredotcom.music-time"
+    ]
+}
