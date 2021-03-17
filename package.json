@@ -2,6 +2,7 @@
     "name": "super-codder-extension-pack",
     "displayName": "Super Codder Extension Pack",
     "description": "This extension pack will make your codding life easy you virgin",
+    "icon": "images/logo.jpg",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.54.0"
